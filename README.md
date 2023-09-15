@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheldonblewis
 - 👀 I’m interested in expanding my professional skill set and making an impact
-- 🌱 I’m currently exploring algorithmic trading, machine learning, and AI
+- 🌱 I’m currently exploring algorithmic trading, quantitative research, entrepreneurhsip and AI
 - 💞️ I’m looking to collaborate on any innovative, impactful, and fun projects!
 - 📫 How to reach me - linkedin.com/in/sheldonblewis | website: sheldon-lewis.com | instagram: @_sheldonlewis 
 
